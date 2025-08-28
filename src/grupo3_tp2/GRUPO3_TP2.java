@@ -60,6 +60,8 @@ public class GRUPO3_TP2 {
         
         System.out.println("");
         
+        System.out.println("Turno de BLUE");
+        
         blue.nadar();
         
         
