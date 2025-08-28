@@ -12,7 +12,7 @@ import java.util.Random;
  * @author Adrian
  */
 public class Castor {
-
+//prueba 1 millon, ojala funcio
     protected double longitudColaCm;
     protected double velocidadKmh; 
 
