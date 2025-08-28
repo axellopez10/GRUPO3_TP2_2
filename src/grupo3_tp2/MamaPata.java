@@ -5,10 +5,14 @@
  */
 package grupo3_tp2;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Adrian
  */
 public interface MamaPata {
+    
+    void tocarOrgano(Scanner sc);
     
 }
