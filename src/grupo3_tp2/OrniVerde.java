@@ -62,6 +62,18 @@ public class OrniVerde extends Castor implements MamaPata {
         
         
     }
+
+    
+
+    @Override
+    public void graznar() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void caminar() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     
     

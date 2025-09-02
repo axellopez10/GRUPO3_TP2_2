@@ -16,7 +16,7 @@ public interface MamaPata {
     boolean tiene_Pico = true;
     
     void tocarOrgano(Scanner sc);
-    void tocarOrgano();
+   
     void graznar();
     void caminar();
     
