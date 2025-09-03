@@ -56,9 +56,9 @@ public class GRUPO3_TP2 {
         Castor[] hermanos = new Castor[3];
         try {
             hermanos[0] = blue;
-            hermanos[1] = orniverde; // 
+            hermanos[1] = orniverde; 
             hermanos[2] = blui;
-            // hermanos[3] = blui; // 
+            
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("Error: fuera de rango del arreglo");
         } finally {
